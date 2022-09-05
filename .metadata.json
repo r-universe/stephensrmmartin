@@ -1,9 +1,5 @@
 [
   {
-    "package": "LMMELSM",
-    "oncran": true
-  },
-  {
     "package": "MIRES",
     "oncran": true
   }
