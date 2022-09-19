@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "MIRES",
+    "oncran": true
+  }
+]
